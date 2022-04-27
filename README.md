@@ -12,8 +12,8 @@ regularly, maybe you should check this list of nice apps that sometimes bring
 new functionality to the CLI, and on other cases expand or replace old
 functionality.
 
-I'll try to not spam with new stuff that may not be really add anything useful
-to my current workflow.
+I'll try to not spam with new stuff that may not really add anything useful to
+my current workflow.
 
 ## Cheatsheets
 
