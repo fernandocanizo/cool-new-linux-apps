@@ -56,6 +56,9 @@ to my current workflow.
 
 ## Find & Replace
 
+- [rg](https://github.com/BurntSushi/ripgrep)
+  A search tool that combines the usability of ag with the raw speed of grep.
+
 - [sd](https://github.com/chmln/sd)
   Intuitive find & replace CLI (sed alternative)
 
@@ -66,6 +69,24 @@ to my current workflow.
 
 - [delta](https://github.com/dandavison/delta)
   A syntax-highlighting pager for git, diff, and grep output.
+
+
+## Databases
+
+- [pgcli](https://github.com/dbcli/pgcli)
+  Great CLI tool to works with Postgresql databases. Check it's
+  [site](https://www.pgcli.com/) too.
+
+- [iredis](https://github.com/laixintao/iredis)
+  Terminal client for Redis with auto-completion and syntax highlighting.
+
+
+## Editing
+
+- [vidir](https://joeyh.name/code/moreutils/)
+  Allows to edit filenames from a folder with a vi-like UI.
+  `vidir` is part of `moreutils` package, which have several other cool tools.
+
 
 ### Under review
 
@@ -105,6 +126,12 @@ on my workflow.
   CLI tool and python library that converts the output of popular command-line
   tools and file-types to JSON or Dictionaries. This allows piping of output to
   tools like jq and simplifying automation scripts.
+
+- [jless](https://github.com/PaulJuliusMartinez/jless)
+  A command-line pager for JSON data. Use it as a replacement for whatever
+  combination of `less`, `jq`, `cat` and your editor you currently use for
+  viewing JSON files.
+
 
 ## Requests / API exploration / Downloading
 
