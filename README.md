@@ -163,6 +163,9 @@ on my workflow.
 - [sniffnet](https://github.com/GyulyVGC/sniffnet)
   Monitor your network traffic.
 
+- [mosh](https://mosh.org/) an `ssh` replacement
+  Several cool features, the main one: it stays connected.
+
 ## Markdown
 
 - [glow](https://github.com/charmbracelet/glow)
