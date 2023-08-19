@@ -9,7 +9,7 @@ basis.
 
 On the other hand, if you have full control of your set up and it doesn't change
 regularly, maybe you should check this list of nice apps that sometimes bring
-new functionality to the CLI, and on other cases expand or replace old
+new functionality to the CLI, and on other cases expand, replace or ease old
 functionality.
 
 I'll try to not spam with new stuff that may not really add anything useful to
@@ -75,7 +75,6 @@ my current workflow.
   [git-split-diffs](https://github.com/banga/git-split-diffs). Also the second
   [breaks my terminal](https://github.com/banga/git-split-diffs/issues/16).
 
-
 ## Databases
 
 - [pgcli](https://github.com/dbcli/pgcli)
@@ -137,7 +136,6 @@ on my workflow.
   combination of `less`, `jq`, `cat` and your editor you currently use for
   viewing JSON files.
 
-
 ## Requests / API exploration / Downloading
 
 - [httpie](https://github.com/httpie/httpie)
@@ -174,8 +172,9 @@ on my workflow.
 
 ## Unworthy
 
-Here I'll list new apps that claim to be cool but don't really add anything new.
-You may choose to use them anyway... If you're a hipster :P
+Here I'll list new apps that claim to be cool but don't really add anything new
+(in my opinion) besides maybe a colorful output. You may choose to use them
+anyway... If you're a hipster :P
 
 - [exa](https://the.exa.website/)
   Doesn't do anything useful that `ls` or `git status` doesn't already do.
