@@ -84,10 +84,17 @@ my current workflow.
 - [delta](https://github.com/dandavison/delta)
   A syntax-highlighting pager for git, diff, and grep output.
 
-  I found it better than
-  [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) and
-  [git-split-diffs](https://github.com/banga/git-split-diffs). Also the second
-  [breaks my terminal](https://github.com/banga/git-split-diffs/issues/16).
+  <details>
+    <summary>Similar tools: `diff-so-fancy`, `git-split-diffs`</summary>
+
+    I found `delta` better than:
+
+    - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
+    - [git-split-diffs](https://github.com/banga/git-split-diffs)
+
+      Also this one [breaks my terminal](https://github.com/banga/git-split-diffs/issues/16)
+
+  </details>
 
 ## Databases
 
