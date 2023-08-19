@@ -60,7 +60,7 @@ my current workflow.
   A search tool that combines the usability of ag with the raw speed of grep.
 
   <details>
-    <summary>Similar tools: ag, ack</summary>
+    <summary>Similar tools: `ag`, `ack`</summary>
 
     - [ag](https://github.com/ggreer/the_silver_searcher)
     - [ack](https://github.com/beyondgrep/ack3)
