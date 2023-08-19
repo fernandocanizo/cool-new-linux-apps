@@ -65,6 +65,11 @@ my current workflow.
 - [fd](https://github.com/sharkdp/fd)
   Simple, fast and user-friendly alternative to find
 
+## Screen recording and alike
+
+- [vhs](https://github.com/charmbracelet/vhs)
+  Generates a GIF from a script. Useful to demo CLI tools.
+
 ## Git related
 
 - [delta](https://github.com/dandavison/delta)
