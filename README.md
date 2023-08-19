@@ -149,6 +149,11 @@ on my workflow.
 - [curlie](https://curlie.io)
   The power of curl, the ease of use of httpie.
 
+## Networking
+
+- [sniffnet](https://github.com/GyulyVGC/sniffnet)
+  Monitor your network traffic.
+
 ## Markdown
 
 - [glow](https://github.com/charmbracelet/glow)
