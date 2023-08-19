@@ -183,13 +183,6 @@ on my workflow.
 
 ## To review
 
-- [dog](https://github.com/ogham/dog)
-  Command-line DNS client like dig.
-
-  I don't do a heavy use of `dig`, so maybe this will stay here forever. From
-  what I see in the README file, it seems its ability to output JSON may be the
-  only distinctive feature that may stop me from putting under "Unworthy".
-
 - [glances](https://github.com/nicolargo/glances)
   Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac
   OS and Windows operating systems.
@@ -199,20 +192,36 @@ on my workflow.
   become "Unworthy". Well, it has some extra information that `htop` doesn't
   have, like the "sensors", but I really didn't find it useful yet.
 
-## Unworthy
+## Maybe unworthy
 
-Here I'll list new apps that claim to be cool but don't really add anything new
-(in my opinion) besides maybe a colorful output. You may choose to use them
-anyway... If you're a hipster :P
+I put here commands that, in my humble opinion and for my use case, don't worth my time. As they don't add any significant improvement, new features or easyness compared to the usual old command. Having colors is cool, but redoing a whole application just to add some colors is... Unnecessary (to put it kindly).
 
-- [exa](https://the.exa.website/)
-  Doesn't do anything useful that `ls` or `git status` doesn't already do.
+- `ls` replacements:
+  - [exa](https://the.exa.website/)
+    Doesn't do anything useful that `ls` or `git status` doesn't already do.
 
-- [lsd](https://github.com/Peltoche/lsd)
-  Doesn't do anything useful that `ls` doesn't already do. But looks cooler than
-  `exa` to me.
+  - [lsd](https://github.com/Peltoche/lsd)
+    Doesn't do anything useful that `ls` doesn't already do. But looks cooler than `exa` to me.
 
-- [bat](https://github.com/sharkdp/bat)
-  A cat clone with syntax highlighting and Git integration.
+- `cat` replacements:
+  - [bat](https://github.com/sharkdp/bat)
+    A cat clone with syntax highlighting and Git integration.
 
-  Apart from syntax highlighting, I don't see real value to replace `cat`
+  - [most](https://www.jedsoft.org/most/index.html)
+    This one's also colorful and can show images ANSI-converted.
+
+    Besides syntax highlighting, I don't see real value to replace `cat`
+
+- `dig` replacements:
+  - [drill](https://www.nlnetlabs.nl/projects/ldns/about/)
+    Utility from `ldns` C library.
+
+  - [dog](https://github.com/ogham/dog)
+
+    I don't do a heavy use of `dig`, so take this with a grain of salt: `drill` looks the same as `dig`, maybe its output a little bit different. `dog` on the other hand may be useful for scripting, as you can ask for specifics fields and also request the output in JSON.
+
+## References and similar works
+
+
+
+
