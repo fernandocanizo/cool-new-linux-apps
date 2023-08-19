@@ -15,6 +15,3 @@
   - review [Emre
     Sevinç](https://ileriseviye.wordpress.com/2018/10/30/command-line-for-the-21-century-the-low-hanging-fruit/amp/)
 
-  - Add a section at the end of the file linking similar work, like Julia's and
-    ibraheemdev's
-

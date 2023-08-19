@@ -222,6 +222,10 @@ I put here commands that, in my humble opinion and for my use case, don't worth 
 
 ## References and similar works
 
+While building this list I reviewed other people's work. Here are links to similar listings:
 
+- Julia Evans's [List of Newish CLI tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
 
+- ibraheemdev's [Modern Unix Apps](https://github.com/ibraheemdev/modern-unix)
 
+- Emre Sevinç's [CLI for the 21 Century](https://ileriseviye.wordpress.com/2018/10/30/command-line-for-the-21-century-the-low-hanging-fruit/amp/)
