@@ -94,6 +94,16 @@ Both `croc` and `wormhole` (aka magic-wormhole) are pretty good, however I like 
 
 - [magic-wormhole](https://github.com/magic-wormhole/magic-wormhole)
 
+## HTTP Resquests
+
+CLI interaction with web services as human-friendly as possible. Cool tools for testing, debugging, and generally interacting with APIs & HTTP servers.
+
+- [httpie](https://httpie.io/)
+- [curlie](https://github.com/rs/curlie)
+- [hx](https://github.com/ducaale/xh)
+
+`hx` is a reimplementation of `httpie` that claims to have better performance. I didn't tested it as there's no package for Archlinux and I didn't want to install it locally.
+
 ## Find & Replace
 
 - [rg](https://github.com/BurntSushi/ripgrep) (aka ripgrep)
