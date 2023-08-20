@@ -79,6 +79,8 @@ my current workflow.
 - `hexdump` replacement:
   - [hexyl](https://github.com/sharkdp/hexyl)
     Pretty cool: shows spaces and space-like characters in green, and more-than-one-byte unicode characters in yellow. Also shows the text version in a third column.
+  - [hxl](https://github.com/sjmulder/hxl)
+    A more performant version of `hexyl` made in C. I'm fine with `hexyl`.
 
 - `time` replacement:
   - [hyperfine](https://github.com/sharkdp/hyperfine)
