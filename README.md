@@ -92,6 +92,12 @@ my current workflow.
 - [tmate](https://tmate.io/)
   Share your terminal with someone, either in read-only mode, or you can give access to write too.
 
+- [lnav](https://github.com/tstack/lnav)
+  Navigate your logs with colors.
+
+- [agrind](https://github.com/rcoh/angle-grinder) (aka angle-grinder)
+  Allows you to parse, aggregate, sum, average, min/max, percentile, and sort your data. You can see it, live-updating, in your terminal. It lets you do sophisticated analytics on the CLI.
+
 ## Docker
 
 - [lazydocker](https://github.com/jesseduffield/lazydocker)
