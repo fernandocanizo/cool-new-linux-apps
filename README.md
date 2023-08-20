@@ -326,11 +326,14 @@ I put here commands that, in my humble opinion and for my use case, don't worth 
 - [fuck](https://github.com/nvbn/thefuck)
   Correct your commands when you mispell them. I don't like this kind of magic.
 
+- [mdp](https://github.com/visit1985/mdp)
+  A markdown presentation tool. Not interested, but I put it here for the sake of completeness, as I'm reviewing all listed tools in Julia Evans' post.
+
 ## References and similar works
 
 While building this list I reviewed other people's work. Here are links to similar listings:
 
-- Julia Evans's [List of Newish CLI tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
+- Julia Evans' [List of Newish CLI tools](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
 
 - ibraheemdev's [Modern Unix Apps](https://github.com/ibraheemdev/modern-unix)
 
