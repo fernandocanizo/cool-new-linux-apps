@@ -246,6 +246,10 @@ I put here commands that, in my humble opinion and for my use case, don't worth 
   - [mtr](https://www.bitwizard.nl/mtr/)
     Didn't find it cool enough to replace good ol' `traceroute`.
 
+- 'locate' replacement:
+  - [plocate](https://plocate.sesse.net/)
+    It claims to be faster, but I'm satisfied with `find`, `broot` or `fzf`.
+
 ## References and similar works
 
 While building this list I reviewed other people's work. Here are links to similar listings:
