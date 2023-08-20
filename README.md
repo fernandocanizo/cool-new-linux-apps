@@ -80,6 +80,10 @@ my current workflow.
   - [hexyl](https://github.com/sharkdp/hexyl)
     Pretty cool: shows spaces and space-like characters in green, and more-than-one-byte unicode characters in yellow. Also shows the text version in a third column.
 
+- `time` replacement:
+  - [hyperfine](https://github.com/sharkdp/hyperfine)
+    Not strictly a `time` replacement cause it does much more: see all those new utilities claiming to be faster than the other? You can use this benchmarking tool to check those claims yourself.
+
 ## File transfer
 
 Both `croc` and `wormhole` (aka magic-wormhole) are pretty good, however I like `croc` better as it comes in a single binary, while `wormhole` install several Python packages to work.
