@@ -77,6 +77,10 @@ my current workflow.
 
   I'm an `htop` user, usually the only thing I want to look is which program is consuming all my CPU power or my RAM, so I don't think I'll be switching, however if I would, `btop` is the strongest candidate.
 
+- `hexdump` replacement:
+  - [hexyl](https://github.com/sharkdp/hexyl)
+    Pretty cool: shows spaces and space-like characters in green, and more-than-one-byte unicode characters in yellow. Also shows the text version in a third column.
+
 ## Find & Replace
 
 - [rg](https://github.com/BurntSushi/ripgrep) (aka ripgrep)
