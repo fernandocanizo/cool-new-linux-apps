@@ -80,6 +80,14 @@ my current workflow.
   - [hexyl](https://github.com/sharkdp/hexyl)
     Pretty cool: shows spaces and space-like characters in green, and more-than-one-byte unicode characters in yellow. Also shows the text version in a third column.
 
+## File transfer
+
+Both `croc` and `wormhole` (aka magic-wormhole) are pretty good, however I like `croc` better as it comes in a single binary, while `wormhole` install several Python packages to work.
+
+- [croc](https://github.com/schollz/croc)
+
+- [magic-wormhole](https://github.com/magic-wormhole/magic-wormhole)
+
 ## Find & Replace
 
 - [rg](https://github.com/BurntSushi/ripgrep) (aka ripgrep)
