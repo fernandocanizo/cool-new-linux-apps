@@ -300,6 +300,9 @@ I put here commands that, in my humble opinion and for my use case, don't worth 
 - [direnv](https://github.com/direnv/direnv)
   Yeah... I don't like this kind of magic. Loading environment variables when you require is just `. env-file`, so this is not worthy for me.
 
+- [asdf](https://github.com/asdf-vm/asdf)
+  A single version manager for any programming language. This is a cool project, but I won't really use it.
+
 ## References and similar works
 
 While building this list I reviewed other people's work. Here are links to similar listings:
