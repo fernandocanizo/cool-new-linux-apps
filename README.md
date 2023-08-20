@@ -268,6 +268,9 @@ I put here commands that, in my humble opinion and for my use case, don't worth 
 
   I don't usually use file managers, and when I need some visual aid in my file navigation pursuits, I have more than enough with good ol' [Midnight Commander](https://midnight-commander.org/)
 
+- [direnv](https://github.com/direnv/direnv)
+  Yeah... I don't like this kind of magic. Loading environment variables when you require is just `. env-file`, so this is not worthy for me.
+
 ## References and similar works
 
 While building this list I reviewed other people's work. Here are links to similar listings:
