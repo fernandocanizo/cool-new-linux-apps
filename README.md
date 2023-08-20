@@ -52,9 +52,6 @@ my current workflow.
   - [fd](https://github.com/sharkdp/fd)
     Simple, fast and user-friendly alternative to find
 
-- [zoxide](https://github.com/ajeetdsouza/zoxide)
-  A smarter cd command. Supports all major shells.
-
 - [diffoscope](https://diffoscope.org/)
   In-depth comparison of files, archives, and directories.
 
@@ -254,6 +251,16 @@ I put here commands that, in my humble opinion and for my use case, don't worth 
 - 'locate' replacement:
   - [plocate](https://plocate.sesse.net/)
     It claims to be faster, but I'm satisfied with `find`, `broot` or `fzf`.
+
+- [fasd](https://github.com/clvv/fasd)
+  A kind of command abbreviator, but I really didn't like the way it works. I prefer to be explicit in my command line. Also repo's currently (2023-08-19) archived without reason (I hate when they do that) and hasn't received any new commits since 2015. So totally unworthy, not maybe.
+
+- `cd` replacements:
+  - [z](https://github.com/rupa/z)
+  - [zoxide](https://github.com/ajeetdsouza/zoxide)
+  - [autojump](https://github.com/wting/autojump)
+
+  None of these are my cup of tea. I don't like having to add folders into a database and I don't like writing obscure abbreviations on my command line. I'm fine working my way around pressing `TAB` key and autocompleting. If I'd expand `cd` functionality, I'll make it work like `fzf` or `broot`, greping through your folders and presenting the most likely one.
 
 ## References and similar works
 
