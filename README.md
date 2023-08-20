@@ -86,6 +86,9 @@ my current workflow.
   - [hyperfine](https://github.com/sharkdp/hyperfine)
     Not strictly a `time` replacement cause it does much more: see all those new utilities claiming to be faster than the other? You can use this benchmarking tool to check those claims yourself.
 
+- [entr](https://github.com/eradman/entr)
+  Run arbitrary commands when files change. A good replacement for specific development tools that watch for changes. _One ring to rule 'em all_.
+
 ## File transfer
 
 Both `croc` and `wormhole` (aka magic-wormhole) are pretty good, however I like `croc` better as it comes in a single binary, while `wormhole` install several Python packages to work.
