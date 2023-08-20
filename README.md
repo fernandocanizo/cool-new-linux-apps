@@ -54,6 +54,9 @@ my current workflow.
 - [diffoscope](https://diffoscope.org/)
   In-depth comparison of files, archives, and directories.
 
+- [duf](https://github.com/muesli/duf) a replacement for `df`
+  Colorfull output, arranged by type, and output JSON, and more.
+
 ## Find & Replace
 
 - [rg](https://github.com/BurntSushi/ripgrep) (aka ripgrep)
