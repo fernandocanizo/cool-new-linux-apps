@@ -127,6 +127,9 @@ CLI interaction with web services as human-friendly as possible. Cool tools for 
 - [sd](https://github.com/chmln/sd)
   Intuitive find & replace CLI (sed alternative)
 
+- a `cut` or `awk` replacement:
+  - [choose](https://github.com/theryangeary/choose)
+
 ## Screen recording and alike
 
 - [vhs](https://github.com/charmbracelet/vhs)
