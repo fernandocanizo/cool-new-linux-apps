@@ -57,6 +57,13 @@ my current workflow.
 - [duf](https://github.com/muesli/duf) a replacement for `df`
   Colorfull output, arranged by type, and output JSON, and more.
 
+- A couple of `du` replacements:
+  - [ncdu](https://dev.yorhel.nl/ncdu)
+    Provides an arrow-keys navigable interface.
+
+  - [dust](https://github.com/bootandy/dust)
+    Presents not only the raw information, but also a bar graph so you can visually see disk consumption.
+
 ## Find & Replace
 
 - [rg](https://github.com/BurntSushi/ripgrep) (aka ripgrep)
