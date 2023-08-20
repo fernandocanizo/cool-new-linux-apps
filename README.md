@@ -42,15 +42,17 @@ my current workflow.
   - [fzf](https://github.com/junegunn/fzf)
     CLI fuzz finder
 
+  - [peco](https://github.com/peco/peco)
+    CLI fuzz finder
+
   - [broot](https://github.com/Canop/broot)
     Search as-you-type files and folders. Press `ENTER` to launch associated
     viewer.
 
-    Haven't used it enough yet, but looks like it has several promising uses. I
-    need to configure some keys that I have already mapped.
-
   - [fd](https://github.com/sharkdp/fd)
     Simple, fast and user-friendly alternative to find
+
+  `fzf` and `peco` are more general utilities: basically you can pipe anything through them and use their features to search stuff.
 
 - [diffoscope](https://diffoscope.org/)
   In-depth comparison of files, archives, and directories.
