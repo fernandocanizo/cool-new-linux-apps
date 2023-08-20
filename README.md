@@ -64,6 +64,15 @@ my current workflow.
   - [dust](https://github.com/bootandy/dust)
     Presents not only the raw information, but also a bar graph so you can visually see disk consumption.
 
+- `top` replacements: (also see below the [Maybe unworthy](#maybe-unworthy) section)
+  - [htop](https://htop.dev/)
+    My go-to process lister for many years.
+
+  - [btop](https://github.com/aristocratos/btop)
+    Pretty cool: several display presets, highlighted hot-keys so you don't have to go to the help to recall how to use it, zoom into the information box you're more interested. The same author also built [bashtop](https://github.com/aristocratos/bashtop) and [bpytop](https://github.com/aristocratos/bpytop) which I didn't fully reviewed but seem to have the same set of features, only that `bashtop` is made in Bash, `bpytop` in Python and `btop` in C++.
+
+  I'm an `htop` user, usually the only thing I want to look is which program is consuming all my CPU power or my RAM, so I don't think I'll be switching, however if I would, `btop` is the strongest candidate.
+
 ## Find & Replace
 
 - [rg](https://github.com/BurntSushi/ripgrep) (aka ripgrep)
@@ -191,17 +200,6 @@ on my workflow.
 - [typora](https://typora.io/)
   A minimal markdown editor and reader.
 
-## To review
-
-- [glances](https://github.com/nicolargo/glances)
-  Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac
-  OS and Windows operating systems.
-
-  On a superficial review, I didn't see it better or clearer than `htop`. Also
-  I'm not sure if it adds something. Strong candidate for the time being to
-  become "Unworthy". Well, it has some extra information that `htop` doesn't
-  have, like the "sensors", but I really didn't find it useful yet.
-
 ## Maybe unworthy
 
 I put here commands that, in my humble opinion and for my use case, don't worth my time. As they don't add any significant improvement, new features or easyness compared to the usual old command. Having colors is cool, but redoing a whole application just to add some colors is... Unnecessary (to put it kindly).
@@ -229,6 +227,19 @@ I put here commands that, in my humble opinion and for my use case, don't worth 
   - [dog](https://github.com/ogham/dog)
 
     I don't do a heavy use of `dig`, so take this with a grain of salt: `drill` looks the same as `dig`, maybe its output a little bit different. `dog` on the other hand may be useful for scripting, as you can ask for specifics fields and also request the output in JSON.
+
+- Other `top` replacements:
+  - [glances](https://github.com/nicolargo/glances)
+    Awful <abbr title="User Interface">UI</abbr>. Adds extra info `htop` doesn't have, but it's a nightmare to watch.
+
+  - [zenith](https://github.com/bvaisvil/zenith)
+    A little better than `glances`, but still far from the cool ones
+
+  - [gtop](https://github.com/aksakalli/gtop)
+    Smooth <abbr title="User Interface">UI</abbr>, but I think it wastes screen space with its memory, swap, disk usage, and network history boxes. Cause all of them use a big portion of the screen just to show a percentage. Also it doesn't show all my cores and the boxes are not real "windows" like in `bottom`.
+
+  - [bottom](https://github.com/ClementTsang/bottom)
+    Neat <abbr title="User Interface">UI</abbr> and also adds more information than `htop`, also can scroll over my CPU cores. However it didn't catch my eye.
 
 ## References and similar works
 
