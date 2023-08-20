@@ -38,15 +38,19 @@ my current workflow.
 
 ## Filesystem navigation and stuff
 
-- [fzf](https://github.com/junegunn/fzf)
-  CLI fuzz finder
+- `locate` and `find` replacements:
+  - [fzf](https://github.com/junegunn/fzf)
+    CLI fuzz finder
 
-- [broot](https://github.com/Canop/broot)
-  Search as-you-type files and folders. Press `ENTER` to launch associated
-  viewer.
+  - [broot](https://github.com/Canop/broot)
+    Search as-you-type files and folders. Press `ENTER` to launch associated
+    viewer.
 
-  Haven't used it enough yet, but looks like it has several promising uses. I
-  need to configure some keys that I have already mapped.
+    Haven't used it enough yet, but looks like it has several promising uses. I
+    need to configure some keys that I have already mapped.
+
+  - [fd](https://github.com/sharkdp/fd)
+    Simple, fast and user-friendly alternative to find
 
 - [zoxide](https://github.com/ajeetdsouza/zoxide)
   A smarter cd command. Supports all major shells.
@@ -89,9 +93,6 @@ my current workflow.
 
 - [sd](https://github.com/chmln/sd)
   Intuitive find & replace CLI (sed alternative)
-
-- [fd](https://github.com/sharkdp/fd)
-  Simple, fast and user-friendly alternative to find
 
 ## Screen recording and alike
 
