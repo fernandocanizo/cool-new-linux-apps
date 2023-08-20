@@ -89,6 +89,9 @@ my current workflow.
 - [entr](https://github.com/eradman/entr)
   Run arbitrary commands when files change. A good replacement for specific development tools that watch for changes. _One ring to rule 'em all_.
 
+- [lazydocker](https://github.com/jesseduffield/lazydocker)
+  A docker UI.
+
 ## File transfer
 
 Both `croc` and `wormhole` (aka magic-wormhole) are pretty good, however I like `croc` better as it comes in a single binary, while `wormhole` install several Python packages to work.
