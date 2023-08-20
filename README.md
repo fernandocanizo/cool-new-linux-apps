@@ -89,6 +89,9 @@ my current workflow.
 - [entr](https://github.com/eradman/entr)
   Run arbitrary commands when files change. A good replacement for specific development tools that watch for changes. _One ring to rule 'em all_.
 
+- [tmate](https://tmate.io/)
+  Share your terminal with someone, either in read-only mode, or you can give access to write too.
+
 ## Docker
 
 - [lazydocker](https://github.com/jesseduffield/lazydocker)
