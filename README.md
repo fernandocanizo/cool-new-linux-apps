@@ -104,14 +104,14 @@ my current workflow.
   A syntax-highlighting pager for git, diff, and grep output.
 
   <details>
-    <summary>Similar tools: `diff-so-fancy`, `git-split-diffs`</summary>
+    <summary>Similar tools: `diff-so-fancy`, `git-split-diffs`, `difftastic`</summary>
 
     I found `delta` better than:
 
     - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
     - [git-split-diffs](https://github.com/banga/git-split-diffs)
-
-      Also this one [breaks my terminal](https://github.com/banga/git-split-diffs/issues/16)
+      This one [breaks my terminal](https://github.com/banga/git-split-diffs/issues/16)
+    - [difft](https://github.com/Wilfred/difftastic) (aka difftastic)
 
   </details>
 
