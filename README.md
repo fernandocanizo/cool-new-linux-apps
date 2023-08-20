@@ -262,6 +262,12 @@ I put here commands that, in my humble opinion and for my use case, don't worth 
 
   None of these are my cup of tea. I don't like having to add folders into a database and I don't like writing obscure abbreviations on my command line. I'm fine working my way around pressing `TAB` key and autocompleting. If I'd expand `cd` functionality, I'll make it work like `fzf` or `broot`, greping through your folders and presenting the most likely one.
 
+- `mc` replacements:
+  - [nnn](https://github.com/jarun/nnn)
+  - [ranger](https://github.com/ranger/ranger)
+
+  I don't usually use file managers, and when I need some visual aid in my file navigation pursuits, I have more than enough with good ol' [Midnight Commander](https://midnight-commander.org/)
+
 ## References and similar works
 
 While building this list I reviewed other people's work. Here are links to similar listings:
