@@ -36,7 +36,7 @@ my current workflow.
 - [navi](https://github.com/denisidoro/navi)
   Looks more powerful than the previous, but I haven't tested it enough.
 
-## Filesystem navigation and stuff
+## Tools of the trade
 
 - `locate` and `find` replacements:
   - [fzf](https://github.com/junegunn/fzf)
