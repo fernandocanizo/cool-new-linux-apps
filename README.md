@@ -115,24 +115,9 @@ my current workflow.
 
   </details>
 
-## Databases
+### Git <abbr title="User Interfaces">UIs</abbr>
 
-- [pgcli](https://github.com/dbcli/pgcli)
-  Great CLI tool to works with Postgresql databases. Check it's
-  [site](https://www.pgcli.com/) too.
-
-- [iredis](https://github.com/laixintao/iredis)
-  Terminal client for Redis with auto-completion and syntax highlighting.
-
-
-## Editing
-
-- [vidir](https://joeyh.name/code/moreutils/)
-  Allows to edit filenames from a folder with a vi-like UI.
-  `vidir` is part of `moreutils` package, which have several other cool tools.
-
-
-### Under review
+**Untested, under review**
 
 I'm not fan of git UIs, but sometimes I use `gitg` to check the history. So
 maybe these (`tig`, `gitui`, `lazygit`, `grv`) can make it into the usual apps
@@ -154,7 +139,23 @@ on my workflow.
 
 - [lazygit](https://github.com/jesseduffield/lazygit)
   I don't really like the motivations of the author. This is a serious candidate
-  for the "Unworthy" section.
+  for the [Maybe unworthy](#maybe-unworthy) section.
+
+## Databases
+
+- [pgcli](https://github.com/dbcli/pgcli)
+  Great CLI tool to works with Postgresql databases. Check it's
+  [site](https://www.pgcli.com/) too.
+
+- [iredis](https://github.com/laixintao/iredis)
+  Terminal client for Redis with auto-completion and syntax highlighting.
+
+
+## Editing
+
+- [vidir](https://joeyh.name/code/moreutils/)
+  Allows to edit filenames from a folder with a vi-like UI.
+  `vidir` is part of `moreutils` package, which have several other cool tools.
 
 ## JSON
 
