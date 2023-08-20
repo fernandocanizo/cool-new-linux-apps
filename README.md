@@ -242,6 +242,10 @@ I put here commands that, in my humble opinion and for my use case, don't worth 
   - [bottom](https://github.com/ClementTsang/bottom)
     Neat <abbr title="User Interface">UI</abbr> and also adds more information than `htop`, also can scroll over my CPU cores. However it didn't catch my eye.
 
+- `traceroute` replacement:
+  - [mtr](https://www.bitwizard.nl/mtr/)
+    Didn't find it cool enough to replace good ol' `traceroute`.
+
 ## References and similar works
 
 While building this list I reviewed other people's work. Here are links to similar listings:
