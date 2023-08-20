@@ -314,6 +314,9 @@ I put here commands that, in my humble opinion and for my use case, don't worth 
 - [asdf](https://github.com/asdf-vm/asdf)
   A single version manager for any programming language. This is a cool project, but I won't really use it.
 
+- [fuck](https://github.com/nvbn/thefuck)
+  Correct your commands when you mispell them. I don't like this kind of magic.
+
 ## References and similar works
 
 While building this list I reviewed other people's work. Here are links to similar listings:
