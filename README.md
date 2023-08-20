@@ -89,8 +89,13 @@ my current workflow.
 - [entr](https://github.com/eradman/entr)
   Run arbitrary commands when files change. A good replacement for specific development tools that watch for changes. _One ring to rule 'em all_.
 
+## Docker
+
 - [lazydocker](https://github.com/jesseduffield/lazydocker)
   A docker UI.
+
+- [ctop](https://github.com/bcicen/ctop)
+  A top-like program for containers.
 
 ## File transfer
 
