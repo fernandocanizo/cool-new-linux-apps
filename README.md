@@ -110,15 +110,15 @@ my current workflow.
 
 - [atuin](https://github.com/atuinsh/atuin)
   Several features, but I liked this the most: the same history across terminals, across sessions, and across machines.
+  **UPDATE 2023-08-20:** tried it, but it doesn't deliver its promises:
+    - the **only thing that works** is the importer, however I got my bash history with timestamps and the importer didn't take them in consideration. Database was filled with `-1` as timestamp for all the commands imported.
+    - it doesn't save into Sqlite database new commands, nor immediately, nor upon exiting shell, nor ever.
+    - it doesn't communicate with local Postgres set up for syncing (I didn't want to send my history to the cloud, no matter how much they promise it's encrypted).
+
+  So I'm keeping it around and not moving it into the _Unworthy_ section yet. Will check later to see if the issues have been solved (yes, I reported them).
 
 - [mcfly](https://github.com/cantino/mcfly)
    An upgraded ctrl-r where history results make sense for what you're working on right now by using a small neural network.
-
-**Note:** I've been using `mcfly` for some time now and I have a couple of annoyances:
-  1. sometimes `ctrl-r` breaks my terminal, showing a full list of commands, nothing works, and I have to `ctrl-c` and then `reset` my terminal.
-  2. there's no synchronization between different shells. Sometimes I'm working on the same project in different tabs, and I try to search for a command I just used on another tab, but it's not there.
-
-Haven't tried `atuin` yet, but it promises to be a replacement for `mcfly`. I hope it provides the same search intelligence, although the docs don't say anything about a neural network like `mcfly`. Another point in favor of `atuin` is that it works with several shells, so you can share commands between them.
 
 ## File transfer
 
