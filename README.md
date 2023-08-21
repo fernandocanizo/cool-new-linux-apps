@@ -266,6 +266,19 @@ on my workflow.
 - [typora](https://typora.io/)
   A minimal markdown editor and reader.
 
+## Shells
+
+Tired of Bash? Try these:
+
+- [fish](https://fishshell.com/)
+  Shell reimagined.
+
+- [xonsh](https://xon.sh/)
+  Python in your shell and shell in your Python. Pretty cool.
+
+- [nushell](https://nushell.sh/)
+  Everything is data, instead of streams of plain text. Nu speaks JSON, YAML, SQLite, Excel, and more out of the box. Rather than being either a shell, or a programming language, Nushell connects both by bringing a rich programming language and a full-featured shell together into one package.
+
 ## Maybe unworthy
 
 I put here commands that, in my humble opinion and for my use case, don't worth my time. As they don't add any significant improvement, new features or easyness compared to the usual old command. Having colors is cool, but redoing a whole application just to add some colors is... Unnecessary (to put it kindly).
