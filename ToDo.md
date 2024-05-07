@@ -19,3 +19,7 @@
 
 Found [dockly](https://github.com/lirantal/dockly)
 But is orphaned on Archlinux, so see how to install and try it before adding to the list of cool apps.
+
+## 2024-01-23
+
+Add [legit](https://github.com/frostming/legit)
