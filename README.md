@@ -232,6 +232,9 @@ on my workflow.
 - [jq](https://stedolan.github.io/jq/)
   Command-line JSON processor.
 
+- [ijq](https://git.sr.ht/~gpanders/ijq)
+  Interactive jq tool, like [jqplay](https://jqplay.org/), but for the commandline.
+
 - [jc](https://github.com/kellyjonbrazil/jc)
   CLI tool and python library that converts the output of popular command-line
   tools and file-types to JSON or Dictionaries. This allows piping of output to
